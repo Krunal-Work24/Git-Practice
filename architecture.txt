@@ -1,0 +1,13 @@
+                Internet
+                     │
+                     ▼
+             AWS Security Group
+                     │
+                     ▼
+          Ubuntu EC2 Instance
+                     │
+                     ▼
+                 Nginx Server
+                     │
+                     ▼
+                index.html
